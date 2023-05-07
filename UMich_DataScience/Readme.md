@@ -25,7 +25,7 @@ Week 1.
 - Basic Charting
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week3)
-- More Data Processing with Pandas
+- Charting Fundamentals
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week4)
 - Beyond Data Manipulation
