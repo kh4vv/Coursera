@@ -18,7 +18,7 @@ Gain new insights into your data . Learn to apply data science methods and techn
 - Beyond Data Manipulation
 
 ### [Course 2. Applied Plotting, Charting & Data Representation in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2)
-[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week1) 
+Week 1.
 - Principles of Information Visualization
 
 [Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week2)
