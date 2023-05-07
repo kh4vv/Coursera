@@ -22,8 +22,7 @@ Week 1.
 - Principles of Information Visualization
 
 [Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week2)
-- Basic Data Processing with Pandas
-- Data Frame
+- Basic Charting
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week3)
 - More Data Processing with Pandas
