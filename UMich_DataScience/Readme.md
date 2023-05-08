@@ -28,4 +28,5 @@ Week 1.
 - Charting Fundamentals
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week4)
-- Beyond Data Manipulation
+- Applied Visualization
+
