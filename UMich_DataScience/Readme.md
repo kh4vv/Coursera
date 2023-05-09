@@ -30,3 +30,18 @@ Week 1.
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week4)
 - Applied Visualization
 
+
+### [Course 3. Applied Machine Learning in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3)
+[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week1) 
+- Fundamentals of Machine Learning 
+- Intro to Sciket Learn
+
+[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week2)
+- Basic Data Processing with Pandas
+- Data Frame
+
+[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week3)
+- More Data Processing with Pandas
+
+[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week4)
+- Beyond Data Manipulation
