@@ -36,7 +36,7 @@ Week 1.
 - Fundamentals of Machine Learning 
 - Intro to Sciket Learn
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week2)
+[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week2)
 - Supervised Machine Learning
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week3)
