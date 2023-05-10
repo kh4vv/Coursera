@@ -39,8 +39,8 @@ Week 1.
 [Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week2)
 - Supervised Machine Learning
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week3)
-- More Data Processing with Pandas
+[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week3)
+- Model Evaluation & Selection
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week4)
 - Beyond Data Manipulation
