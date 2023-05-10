@@ -45,3 +45,15 @@ Week 1.
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week4)
 -  Supervised Machine Learning - Part 2
 
+### [Course 4. Applied Text Mining in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4)
+[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week1) 
+- Working with Text in Python 
+
+[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week2)
+- Supervised Machine Learning
+
+[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week3)
+- Model Evaluation & Selection
+
+[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week4)
+-  Supervised Machine Learning - Part 2
