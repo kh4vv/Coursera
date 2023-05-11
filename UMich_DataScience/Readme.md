@@ -53,7 +53,7 @@ Week 1.
 - Basic Natural Language Processing
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week3)
-- Model Evaluation & Selection
+- Classification of Text
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week4)
 -  Supervised Machine Learning - Part 2
