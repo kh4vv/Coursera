@@ -50,7 +50,7 @@ Week 1.
 - Working with Text in Python 
 
 [Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week2)
-- Supervised Machine Learning
+- Basic Natural Language Processing
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week3)
 - Model Evaluation & Selection
