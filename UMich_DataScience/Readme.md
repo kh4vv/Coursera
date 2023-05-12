@@ -57,3 +57,17 @@ Week 1.
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week4)
 -  Topic Modeling
+
+### [Course 5. Applied Social Network Analysis in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5)
+[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week1) 
+- Why Study Networks and Basics on NetworkX 
+
+[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week2)
+- Basic Natural Language Processing
+
+[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week3)
+- Classification of Text
+
+[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week4)
+-  Topic Modeling
+
