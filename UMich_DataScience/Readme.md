@@ -56,4 +56,4 @@ Week 1.
 - Classification of Text
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week4)
--  Supervised Machine Learning - Part 2
+-  Topic Modeling
