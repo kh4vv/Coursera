@@ -63,7 +63,7 @@ Week 1.
 - Why Study Networks and Basics on NetworkX 
 
 [Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week2)
-- Basic Natural Language Processing
+- Network Connectivity
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week3)
 - Classification of Text
