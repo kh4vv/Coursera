@@ -66,7 +66,7 @@ Week 1.
 - Network Connectivity
 
 [Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week3)
-- Classification of Text
+- Influence Measures and Network Centralization
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week4)
 -  Topic Modeling
