@@ -69,5 +69,5 @@ Week 1.
 - Influence Measures and Network Centralization
 
 [Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week4)
--  Topic Modeling
+- Network Evolution & Application
 
