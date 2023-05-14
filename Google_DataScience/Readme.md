@@ -1,21 +1,42 @@
-## Applied Data Science with Python Specialization 
-#### Offered by Univeristy of Michigan
-Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills.
+## Google Advanced Data Analytics Certificate
+#### Offered by Google
+Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
-### [Course 1. Introduction to Data Science in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1)
-[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week1) 
+
+Get Started with Python — Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
+
+Go Beyond the Numbers: Translate Data into Insights — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
+
+The Power of Statistics — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
+
+Regression Analysis: Simplify Complex Data Relationships — Learn to model variable relationships, focusing on linear and logistic regression.
+
+The Nuts and Bolts of Machine Learning — Learn unsupervised machine learning techniques and how to apply them to organizational data. 
+
+Google Advanced Data Analytics Capstone — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
+
+
+### [Course 1. Foundations of Data Science ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1)
+Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
+
+[Week 1: Introduction of data science concepts](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week1) 
 - Introduction to the Course
 - Fundamentals of Data Manipulation
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week2)
+[Week 2: The impact of data today](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week2)
 - Basic Data Processing with Pandas
 - Data Frame
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week3)
+[Week 3: Your career as a data professional](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week3)
 - More Data Processing with Pandas
 
-[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course1/week4)
+[Week 4: Data applications and workflow](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week4)
 - Beyond Data Manipulation
+
+[Week 5: Course 1 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week5)
+
+
+
 
 ### [Course 2. Applied Plotting, Charting & Data Representation in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2)
 Week 1.
