@@ -16,16 +16,12 @@ The Nuts and Bolts of Machine Learning — Learn unsupervised machine learning t
 Google Advanced Data Analytics Capstone — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
 
 
-### [Course 1. Foundations of Data Science ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1)
+### [Course 1. Foundations of Data Science ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course1)
 Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
 
-[Week 1: Introduction of data science concepts](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week1) 
-- Introduction to the Course
-- Fundamentals of Data Manipulation
+[Week 1: Introduction of data science concepts](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course1/week1) 
 
-[Week 2: The impact of data today](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week2)
-- Basic Data Processing with Pandas
-- Data Frame
+[Week 2: The impact of data today](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course1/week2)
 
 [Week 3: Your career as a data professional](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week3)
 - More Data Processing with Pandas
