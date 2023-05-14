@@ -44,8 +44,10 @@
 **Metrics:** Methods and criteria used to evaluate data
 
 **P**
+
 **Python:** A general-purpose programming language
 
 **T**
+
 **Tableau:** A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
 
