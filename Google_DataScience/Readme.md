@@ -39,7 +39,7 @@ Discover how the programming language Python can power your data analysis. Learn
 [Week 5: Course 2 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week5)
 
 
-### [Course 3. Go Beyond the Numbers](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3)
+### [Course 3. Go Beyond the Numbers: Translate Data into Insights](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3)
 Translate Data into Insights — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
 
 [Week 1: Find and share stories using data](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week1) 
