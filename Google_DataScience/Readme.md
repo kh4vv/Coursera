@@ -3,8 +3,6 @@
 Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
 
-Get Started with Python — Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
-
 Go Beyond the Numbers: Translate Data into Insights — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
 
 The Power of Statistics — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
@@ -34,18 +32,18 @@ Learn how data professionals operate in the workplace and how different roles in
 
 
 
-### [Course 2. Applied Plotting, Charting & Data Representation in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2)
-Week 1.
-- Principles of Information Visualization
+### [Course 2. Get Started with Python](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2)
+Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week2)
-- Basic Charting
+[Week 1: Hello, Python! ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week1) 
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week3)
-- Charting Fundamentals
+[Week 2: Functions and conditional statements](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week2)
 
-[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course2/week4)
-- Applied Visualization
+[Week 3: Loops and strings](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week3)
+
+[Week 4: Data structures in Python](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week4)
+
+[Week 5: Course 2 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week5)
 
 
 ### [Course 3. Applied Machine Learning in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3)
