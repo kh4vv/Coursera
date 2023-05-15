@@ -3,8 +3,6 @@
 Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
 
-Go Beyond the Numbers: Translate Data into Insights — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
-
 The Power of Statistics — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
 
 Regression Analysis: Simplify Complex Data Relationships — Learn to model variable relationships, focusing on linear and logistic regression.
@@ -27,9 +25,6 @@ Learn how data professionals operate in the workplace and how different roles in
 
 [Week 5: Course 1 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week5)
 
-
-
-
 ### [Course 2. Get Started with Python](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2)
 Discover how the programming language Python can power your data analysis. Learn core Python concepts, such as data types, functions, conditional statements, loops, and data structures.
 
@@ -44,19 +39,18 @@ Discover how the programming language Python can power your data analysis. Learn
 [Week 5: Course 2 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week5)
 
 
-### [Course 3. Applied Machine Learning in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3)
-[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week1) 
-- Fundamentals of Machine Learning 
-- Intro to Sciket Learn
+### [Course 3. Go Beyond the Numbers](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3)
+Translate Data into Insights — Learn the fundamentals of data cleaning and visualizations and how to reveal the important stories that live within data.
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week2)
-- Supervised Machine Learning
+[Week 1: Find and share stories using data](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week1) 
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week3)
-- Model Evaluation & Selection
+[Week 2: Explore raw data](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week2)
 
-[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3/week4)
--  Supervised Machine Learning - Part 2
+[Week 3: Clean your data](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week3)
+
+[Week 4: Data visualizations and presentations](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week4)
+
+[Week 5: Course 3 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week5)
 
 ### [Course 4. Applied Text Mining in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4)
 [Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week1) 
