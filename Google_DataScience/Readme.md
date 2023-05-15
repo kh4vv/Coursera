@@ -22,10 +22,8 @@ Learn how data professionals operate in the workplace and how different roles in
 [Week 2: The impact of data today](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course1/week2)
 
 [Week 3: Your career as a data professional](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week3)
-- More Data Processing with Pandas
 
 [Week 4: Data applications and workflow](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week4)
-- Beyond Data Manipulation
 
 [Week 5: Course 1 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course1/week5)
 
@@ -39,11 +37,11 @@ Discover how the programming language Python can power your data analysis. Learn
 
 [Week 2: Functions and conditional statements](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week2)
 
-[Week 3: Loops and strings](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week3)
+[Week 3: Loops and strings](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week3)
 
-[Week 4: Data structures in Python](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week4)
+[Week 4: Data structures in Python](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week4)
 
-[Week 5: Course 2 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/course2/week5)
+[Week 5: Course 2 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course2/week5)
 
 
 ### [Course 3. Applied Machine Learning in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course3)
