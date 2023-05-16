@@ -2,9 +2,6 @@
 #### Offered by Google
 Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
-
-The Power of Statistics — Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
-
 Regression Analysis: Simplify Complex Data Relationships — Learn to model variable relationships, focusing on linear and logistic regression.
 
 The Nuts and Bolts of Machine Learning — Learn unsupervised machine learning techniques and how to apply them to organizational data. 
@@ -52,18 +49,20 @@ Translate Data into Insights — Learn the fundamentals of data cleaning and vis
 
 [Week 5: Course 3 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course3/week5)
 
-### [Course 4. Applied Text Mining in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4)
-[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week1) 
-- Working with Text in Python 
+### [Course 4. The Power of Statistics](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4)
+Explore descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week2)
-- Basic Natural Language Processing
+[Week 1: Introduction to statistics](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week1) 
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week3)
-- Classification of Text
+[Week 2: Probability](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week2)
 
-[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course4/week4)
--  Topic Modeling
+[Week 3: Sampling](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week3)
+
+[Week 4: Confidence intervals](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week4)
+
+[Week 5: Introduction to hypothesis testing](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week5)
+
+[Week 6: Course 4 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week6)
 
 ### [Course 5. Applied Social Network Analysis in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5)
 [Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week1) 
