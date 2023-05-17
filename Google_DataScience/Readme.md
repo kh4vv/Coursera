@@ -64,16 +64,18 @@ Explore descriptive and inferential statistics, basic probability and probabilit
 
 [Week 6: Course 4 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course4/week6)
 
-### [Course 5. Applied Social Network Analysis in Python](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5)
-[Week 1.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week1) 
-- Why Study Networks and Basics on NetworkX 
+### [Course 5. Regression Analysis: Simplify Complex Data Relationships](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5)
+Learn to model variable relationships, focusing on linear and logistic regression.
 
-[Week 2.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week2)
-- Network Connectivity
+[Week 1: Introduction to complex data relationships](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week1) 
 
-[Week 3.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week3)
-- Influence Measures and Network Centralization
+[Week 2: Simple linear regression](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week2)
 
-[Week 4.](https://github.com/kh4vv/Coursera/tree/origin/UMich_DataScience/course5/week4)
-- Network Evolution & Application
+[Week 3: Multiple linear regression](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week3)
+
+[Week 4: Advanced hypothesis testing](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week4)
+
+[Week 5: Logistic regression](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week5)
+
+[Week 6: Course 5 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week6)
 
