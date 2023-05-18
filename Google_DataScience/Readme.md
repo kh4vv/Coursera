@@ -2,10 +2,6 @@
 #### Offered by Google
 Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
-Regression Analysis: Simplify Complex Data Relationships — Learn to model variable relationships, focusing on linear and logistic regression.
-
-The Nuts and Bolts of Machine Learning — Learn unsupervised machine learning techniques and how to apply them to organizational data. 
-
 Google Advanced Data Analytics Capstone — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
 
 
@@ -78,4 +74,19 @@ Learn to model variable relationships, focusing on linear and logistic regressio
 [Week 5: Logistic regression](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week5)
 
 [Week 6: Course 5 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course5/week6)
+
+### [Course 6. The Nuts and Bolts of Machine Learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6)
+Learn unsupervised machine learning techniques and how to apply them to organizational data. 
+
+[Week 1: The different types of machine learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week1) 
+
+[Week 2: Workflow for building complex models ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week2)
+
+[Week 3: Unsupervised learning techniques](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week3)
+
+[Week 4: Tree-based supervised learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week4)
+
+[Week 5: Course 6 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week5)
+
+
 
