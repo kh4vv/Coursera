@@ -2,9 +2,6 @@
 #### Offered by Google
 Throughout this program, you will explore concepts and scenarios that will help you grow your knowledge and skills as a data professional.
 
-Google Advanced Data Analytics Capstone — Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
-
-
 ### [Course 1. Foundations of Data Science ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course1)
 Learn how data professionals operate in the workplace and how different roles in the field of data science contribute to an organization’s vision of the future. Then, explore data science roles, communication skills, and data ethics.
 
@@ -88,5 +85,16 @@ Learn unsupervised machine learning techniques and how to apply them to organiza
 
 [Week 5: Course 6 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week5)
 
+### [Course 6. Google Advanced Data Analytics Capstone](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7)
+ Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
 
+[Week 1: The different types of machine learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week1) 
+
+[Week 2: Workflow for building complex models ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week2)
+
+[Week 3: Unsupervised learning techniques](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week3)
+
+[Week 4: Tree-based supervised learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week4)
+
+[Week 5: Course 6 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week5)
 
