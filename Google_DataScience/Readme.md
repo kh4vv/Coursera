@@ -85,7 +85,7 @@ Learn unsupervised machine learning techniques and how to apply them to organiza
 
 [Week 5: Course 6 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week5)
 
-### [Course 6. Google Advanced Data Analytics Capstone](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7)
+### [Course 7. Google Advanced Data Analytics Capstone](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7)
  Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
 
 [Week 1: Learn about the capstone project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7/week1) 
