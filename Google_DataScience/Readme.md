@@ -77,7 +77,7 @@ Learn unsupervised machine learning techniques and how to apply them to organiza
 
 [Week 1: The different types of machine learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week1) 
 
-[Week 2: Workflow for building complex models ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week2)
+[Week 2: Workflow for building complex models](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week2)
 
 [Week 3: Unsupervised learning techniques](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week3)
 
@@ -88,13 +88,11 @@ Learn unsupervised machine learning techniques and how to apply them to organiza
 ### [Course 6. Google Advanced Data Analytics Capstone](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7)
  Complete a hands-on project designed to demonstrate the skills and competencies you acquire in the program. 
 
-[Week 1: The different types of machine learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week1) 
+[Week 1: Learn about the capstone project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7/week1) 
 
-[Week 2: Workflow for building complex models ](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week2)
+[Week 2: Data-focused career resources](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7/week2)
 
-[Week 3: Unsupervised learning techniques](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week3)
+[Week 3: Google Advanced Data Analytics Certificate wrap-up](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course7/week3)
 
-[Week 4: Tree-based supervised learning](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week4)
 
-[Week 5: Course 6 end-of-course project](https://github.com/kh4vv/Coursera/tree/origin/Google_DataScience/Course6/week5)
 
